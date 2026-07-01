@@ -15,15 +15,8 @@ Sou um desenvolvedor web em formação e estudante de ADS na **UniEinstein**, em
 
 ## 📈 Estatísticas do GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lavorgg&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do Lavor" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavorgg&layout=compact&theme=radical" alt="Linguagens mais utilizadas" />
-</p>
-
-## ⚡ Um pouco mais sobre mim
-
-* ⚽ Fora da tela do computador, você me encontra treinando na academia, jogando futebol ou acompanhando automobilismo. 
-* 🪖 Trago muita disciplina e foco para os meus projetos de desenvolvimento.
+<img src="https://github-readme-stats.vercel.app/api?username=lavorgg&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache=123" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavorgg&layout=compact&theme=radical&cache=123" />
 
 ## 📫 Como me encontrar
 
