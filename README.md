@@ -13,11 +13,6 @@ Sou um desenvolvedor web em formação e estudante de ADS na **UniEinstein**, em
   <img src="https://skillicons.dev/icons?i=python,c,java,js,html,css,git" />
 </p>
 
-## 📈 Estatísticas do GitHub
-
-<img src="https://github-readme-stats.vercel.app/api?username=lavorgg&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache=123" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavorgg&layout=compact&theme=radical&cache=123" />
-
 ## 📫 Como me encontrar
 
 - **LinkedIn:** [linkedin.com/in/lavorgabriel](https://www.linkedin.com/in/lavorgabriel/)
