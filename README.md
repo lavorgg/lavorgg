@@ -2,9 +2,10 @@
 
 Sou um desenvolvedor web em formação e estudante de ADS na **UniEinstein**, em Limeira. Tenho 20 anos, mineiro de coração e paulista por adoção.
 
-## 🚀 O que estou construindo agora
+## 🚀 Projetos em Andamento ou Finalizados
 
 * ⚔️ **Sistema de Gestão de Campos:** Plataforma para organização de eventos de airsoft/paintball. Tecnologias: Python, Django, PostgreSQL, React e Vue.
+* 👾 **Uandra Tasks:** Sistema de tasks e meta de pontos para funcionários de uma empresa atingirem para conseguirem bonificações. Construído em Python e Django, tem a tecnologia PWA, para rodar como app em dispositivos móveis e faciliar o uso para quem tem mais dificuldade em tecnologia.
 * 🎟️ **Sistema de Gestão de Eventos:** Sistema com geração automatizada de credenciais via QR Code e emissão de certificados em PDF. Tecnologias: Python, Django e ReportLab.
 
 ## 🛠️ Tecnologias e Ferramentas
