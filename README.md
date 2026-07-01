@@ -7,6 +7,12 @@ Sou um desenvolvedor web em formação e estudante de ADS na **UniEinstein**, em
 * ⚔️ **Sistema de Gestão de Campos:** Plataforma para organização de eventos de airsoft/paintball. Tecnologias: Python, Django, PostgreSQL, React e Vue.
 * 🎟️ **Sistema de Gestão de Eventos:** Sistema com geração automatizada de credenciais via QR Code e emissão de certificados em PDF. Tecnologias: Python, Django e ReportLab.
 
+## 📈 Estatísticas do GitHub
+
+![GitHub Stats](https://github-profile-summary.deno.dev/api?username=lavorgg&layout=main)
+
+![Top Languages](https://github-profile-summary.deno.dev/api?username=lavorgg&layout=compact)
+
 ## 🛠️ Tecnologias e Ferramentas
 
 <p align="left">
