@@ -20,7 +20,7 @@ Sou um desenvolvedor web em formação e estudante de ADS na **UniEinstein**, em
 *   **Foco de Desenvolvimento:** Aplicações Web escaláveis utilizando Python e Django.
 *   **Linguagens Principais:** Python, Java, JavaScript, HTML, CSS.
 *   **Projetos em Destaque:** 
-    *   Sistema de Gestão de Campos (Airsoft/Paintball).
+    *   Sistema de Gestão de Financeira (Nodus).
     *   Sistema de Gestão de Eventos (QR Code e Certificação).
 
 *Nota: Dados atualizados manualmente para garantir compatibilidade com todos os navegadores.*
